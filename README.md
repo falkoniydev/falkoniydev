@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=falkoniydev&label=Profile%20views&color=0e75b6&style=flat" alt="falkoniydev" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-blue-two-61.vercel.app/](https://portfolio-blue-two-61.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-blue-two-61.vercel.app/](https://www.shahboznabiyev.uz/)
 
 - 📝 I regularly write articles on [https://t.me/falkoniy](https://t.me/falkoniy)
 
